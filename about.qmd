@@ -1,5 +1,7 @@
 ---
 title: "About"
 ---
+## About Me
 
-Ethan Koshy
+My name is **Ethan Koshy**, I am a high school student at *Cherokee Trail HIgh School*.
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
